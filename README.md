@@ -1,8 +1,8 @@
-# Periskope
+# talkative
 
 ## Overview
 
-**Periskope** is a real-time web-based chat application built with Next.js (React), Tailwind CSS, and Supabase. It features user authentication, instant messaging, online status, and an intuitive modern UI. The project demonstrates full-stack chat functionality suitable for learning, prototyping, or building your own scalable messenger.
+**talkative** is a real-time web-based chat application built with Next.js (React), Tailwind CSS, and Supabase. It features user authentication, instant messaging, online status, and an intuitive modern UI. The project demonstrates full-stack chat functionality suitable for learning, prototyping, or building your own scalable messenger.
 
 ## Features
 
@@ -98,6 +98,14 @@
 * **Chat**: Start a chat with another registered user. Messages sync in real time between browsers.
 * **Typing & Presence**: See when a user is online and typing. Unread counts show new messages.
 * **Responsive**: Works well on desktop and mobile. Supports dark and light themes.
+
+## Testing
+
+Run the unit tests with:
+
+```bash
+npm test
+```
 
 ## Planned Todos
 
